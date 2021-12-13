@@ -1,4 +1,4 @@
-# apalicasion web
+# aplicasión web
 
 esta pagina web ha sido creada para aprender a utilizar
 
