@@ -1,12 +1,13 @@
 {
   "name": "ntfpreviewcardcomponent",
-  "homepage": "https://github.com/cruzrovira/ntfpreviewcardcomponent",
+  "homepage": "https://cruzrovira.github.io/ntfpreviewcardcomponent/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --fix",
     "preview": "vite preview",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
